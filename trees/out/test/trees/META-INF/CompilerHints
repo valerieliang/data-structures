@@ -1,0 +1,10 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,trees/JmhRuntimeTest.arrayMap
+inline,trees/JmhRuntimeTest.avlTreeMap
+inline,trees/JmhRuntimeTest.bstMap
+inline,trees/JmhRuntimeTest.setUp
+inline,trees/JmhRuntimeTest.treapMap
